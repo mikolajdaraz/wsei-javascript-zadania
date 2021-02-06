@@ -1,6 +1,6 @@
 #### Zadanie 1
 
-Wypisuj w konsoli co 3 sekundy napis "Cześć po raz " oraz liczbę powtóżeń. Jeśli Licznik dojdzie do 15 zatrzymaj go. 
+Wypisuj w konsoli co 3 sekundy napis "Cześć po raz " oraz liczbę powtórzeń. Jeśli Licznik dojdzie do 15 zatrzymaj go. 
 
 ### Zadanie 2
 
